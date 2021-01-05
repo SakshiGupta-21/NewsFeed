@@ -14,7 +14,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import org.json.JSONObject
 
 class MainActivity : AppCompatActivity(), NewsItemClicked {
-
+// hello comment added
     private lateinit var mAdapter: NewsListAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
